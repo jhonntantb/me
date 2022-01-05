@@ -1,4 +1,4 @@
-Mi Portafolio personal toamndo como plantilla:
+Mi Portafolio personal tomando como plantilla:
 
 Template URL: https://bootstrapmade.com/personal-free-resume-bootstrap-template/
 Author: BootstrapMade.com
