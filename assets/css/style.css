@@ -647,6 +647,9 @@ section .container {
   font-size: 14px;
   margin-bottom: 0;
 }
+.services .icon-box a i{
+  font-size: 30px;
+}
 .services .icon-box:hover {
   background: #18d26e;
   border-color: #18d26e;
@@ -660,8 +663,11 @@ section .container {
 .services .icon-box:hover .icon::before {
   background: #35e888;
 }
-.services .icon-box:hover h4 a, .services .icon-box:hover p {
+.services .icon-box:hover h4 a, .services .icon-box:hover p{
   color: #fff;
+}
+.services .icon-box:hover a i{
+  color: #000;
 }
 
 /*--------------------------------------------------------------
@@ -777,12 +783,14 @@ section .container {
 .portfolio .portfolio-wrap .portfolio-links a {
   color: #fff;
   margin: 0 2px;
-  font-size: 28px;
+  font-size: 50px;
   display: inline-block;
   transition: 0.3s;
 }
 .portfolio .portfolio-wrap .portfolio-links a:hover {
   color: #63eda3;
+  height: 10px;
+  width: 10px;
 }
 .portfolio .portfolio-wrap:hover::before {
   top: 0;
